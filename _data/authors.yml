@@ -1,0 +1,24 @@
+Frank:
+  name: "Gaetano Saurio"
+  avatar: "/assets/images/foto-sun-2.png"
+  bio: "I'm a PhD candidate in Data Science at the Sapienza University of Rome, robot maker, gardener and musician." # Note: Markdown is allowed
+  location: "Rome, Italy"
+  links:
+
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/gaetanosaurio/"
+
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/neurophylla"
+      
+    - label: "Youtube"
+      icon: "fab fa-youtube"
+      url: "https://www.youtube.com/@macrophylla"
+
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/_macrophylla_/"
+
+
