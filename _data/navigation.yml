@@ -1,6 +1,15 @@
 main:
-  - title: "Portfolio"
-    url: /projects/
-  - title: "Contact"
-    url: /contact/
+  - title: "Bio & edu"
+    url: /bio/
+  - title: "PhD-projects"
+    url: /phd_projects/
+  - title: "Other-projects"
+    url: /other_projects/
+  - title: "Teaching-training"
+    url: /teaching_training/
+  - title: "Music"
+    url: /music/
+  - title: "Nature" 
+    url: /garden_dune/
+
 

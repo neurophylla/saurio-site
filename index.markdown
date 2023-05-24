@@ -3,26 +3,32 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-title: Home
+title: 
 author_profile: true
-author: Frank
+author: Gaetano
 
-toc: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/garden2.jpeg
+  actions:
+    - label: "Resume"
+      url: "/assets/resume-GSaurio.pdf"
+excerpt: "Study and don't put aside creativity, openness, humanity and respect for nature."
+
+
+
+toc: false
 toc_label: "Table of Contents"
 toc_icon: "cog"
-toc_sticky: true
+toc_sticky: false
 ---
 
-## Welcome!
-I'm Gaetano Saurio, computer scientist, [**robot maker**](http://www.poommarobot.com/){:target="_blank"}, musician, singer, songwriter, and gardener of a 1000 squared meters sub-tropical forest.
+I started my [**PhD in Data Science**](https://phd.uniroma1.it/web/GAETANO-SAURIO_nP2078553_IT.aspx){:target="_blank"} at the Sapienza University of Rome on November 2022. 
 
-## A brief bio
-As of January 2023, I've just started my [**PhD**](https://phd.uniroma1.it/web/GAETANO-SAURIO_nP2078553_IT.aspx){:target="_blank"} in Data Science at the Sapienza University of Rome. 
+I'm interested in Graph Neural Networks, Computer Vision, advanced CNNs, Geometric Deep Learning, Precision Agriculture, Generative AI, etc.
 
-I love to explore and deepen how to leverage data to help humans in everyday life. 
+I love to explore and deepen how to leverage data to help humans and reduce our impact on this planet. 
 
-My research interests are Geometric Deep Learning, Graph Neural Networks, Computer Vision, Precision Agriculture, etc. 
+I'm also a Computer Science teacher, corporate trainer, robot maker, musician, gardener and coastal dune enthusiast.
 
-I often imagine how to use AI to reduce our impact on this planet.  
-
-I do everything possible every day to improve my technical skills without putting aside creativity, openness and humanity.
